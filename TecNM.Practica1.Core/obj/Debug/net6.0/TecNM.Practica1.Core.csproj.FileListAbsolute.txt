@@ -1,0 +1,12 @@
+C:\Users\Daniela uwu\Desktop\TECNM.PRACTICA1\TecNM.Practica1.Core\bin\Debug\net6.0\TecNM.Practica1.Core.deps.json
+C:\Users\Daniela uwu\Desktop\TECNM.PRACTICA1\TecNM.Practica1.Core\bin\Debug\net6.0\TecNM.Practica1.Core.dll
+C:\Users\Daniela uwu\Desktop\TECNM.PRACTICA1\TecNM.Practica1.Core\bin\Debug\net6.0\TecNM.Practica1.Core.pdb
+C:\Users\Daniela uwu\Desktop\TECNM.PRACTICA1\TecNM.Practica1.Core\obj\Debug\net6.0\TecNM.Practica1.Core.csproj.AssemblyReference.cache
+C:\Users\Daniela uwu\Desktop\TECNM.PRACTICA1\TecNM.Practica1.Core\obj\Debug\net6.0\TecNM.Practica1.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniela uwu\Desktop\TECNM.PRACTICA1\TecNM.Practica1.Core\obj\Debug\net6.0\TecNM.Practica1.Core.AssemblyInfoInputs.cache
+C:\Users\Daniela uwu\Desktop\TECNM.PRACTICA1\TecNM.Practica1.Core\obj\Debug\net6.0\TecNM.Practica1.Core.AssemblyInfo.cs
+C:\Users\Daniela uwu\Desktop\TECNM.PRACTICA1\TecNM.Practica1.Core\obj\Debug\net6.0\TecNM.Practica1.Core.csproj.CoreCompileInputs.cache
+C:\Users\Daniela uwu\Desktop\TECNM.PRACTICA1\TecNM.Practica1.Core\obj\Debug\net6.0\TecNM.Practica1.Core.dll
+C:\Users\Daniela uwu\Desktop\TECNM.PRACTICA1\TecNM.Practica1.Core\obj\Debug\net6.0\refint\TecNM.Practica1.Core.dll
+C:\Users\Daniela uwu\Desktop\TECNM.PRACTICA1\TecNM.Practica1.Core\obj\Debug\net6.0\TecNM.Practica1.Core.pdb
+C:\Users\Daniela uwu\Desktop\TECNM.PRACTICA1\TecNM.Practica1.Core\obj\Debug\net6.0\ref\TecNM.Practica1.Core.dll
